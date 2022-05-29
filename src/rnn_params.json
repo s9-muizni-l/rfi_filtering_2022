@@ -1,0 +1,7 @@
+{
+	"data-orig-dir": "orig/a",
+	"data-parsed-dir": "parsed/a",
+	"dataset-multiplier": 50,
+	"train": true,
+	"train-epochs": 1500
+}

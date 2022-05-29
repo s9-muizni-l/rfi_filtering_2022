@@ -1,0 +1,21 @@
+{
+	"x-file": "x-a.npy",
+	"data-folder": "input/a",
+	"prefix": "a",
+	"thresh-min": -0.5,
+	"thresh-max": 20,
+	"points-around": 400,
+	"center": 0,
+	"keep": [
+		{
+			"start": -5.92,
+			"end": 8,
+			"val": 1.5
+		},
+		{
+			"start": 0.92,
+			"end": 8,
+			"val": 1.5
+		}
+	]
+}

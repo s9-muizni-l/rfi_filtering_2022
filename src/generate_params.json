@@ -1,0 +1,35 @@
+{
+	"x-start": 0,
+	"x-end": 801,
+	"points-total": 801,
+	"y-average": 0,
+	"noise-range": {
+		"min": -0.4,
+		"max": 0.4
+	},
+	"noise-size": 3,
+	"indents": [
+		{
+			"start_val": 379,
+			"center_val": 385,
+			"end_val": 391,
+			"set_max_val": 3,
+			"start_exp": 2,
+			"end_exp": 2
+		},
+		{
+			"start_val": 404,
+			"center_val": 414,
+			"end_val": 422,
+			"set_max_val": 1.5,
+			"start_exp": 2,
+			"end_exp": 2
+		}
+	],
+	"indent-noise-range": {
+		"min": -0.4,
+		"max": 0.4
+	},
+	"indent-noise-size": 3,
+	"r-count": 86
+}
